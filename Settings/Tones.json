@@ -1,0 +1,198 @@
+{
+    "Brutal": {
+        "AMP": "Modern",
+        "Preset": "Special",
+        "Gate": {
+            "Threshold": 66,
+            "Decay": 14
+        },
+        "Cab": "Fuel 4x12",
+        "Settings": {
+            "Gain": 70,
+            "Master": 73,
+            "Bass": 71,
+            "Mid": 48,
+            "Treble": 66
+        }
+    },
+    "Djent": {
+        "AMP": "Modern",
+        "Preset": "Hi Gain",
+        "Gate": {
+            "Threshold": 76,
+            "Decay": 76
+        },
+        "Compressor": {
+            "Sustain": 38,
+            "Level": 63
+        },
+        "Cab": "Brown 4x12",
+        "Settings": {
+            "Gain": 81,
+            "Master": 76,
+            "Bass": 71,
+            "Mid": 42,
+            "Treble": 76
+        }
+    },
+    "Classic Metal": {
+        "AMP": "Classic",
+        "Preset": "Hi Gain",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 46,
+            "Level": 60
+        },
+        "Cab": "British 4x12",
+        "Settings": {
+            "Gain": 85,
+            "Master": 76,
+            "Bass": 53,
+            "Mid": 81,
+            "Treble": 65
+        }
+    },
+    "Maiden": {
+        "AMP": "Classic",
+        "Preset": "Hi Gain",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 46,
+            "Level": 60
+        },
+        "Cab": "Brown 4x12",
+        "Settings": {
+            "Gain": 85,
+            "Master": 76,
+            "Bass": 53,
+            "Mid": 81,
+            "Treble": 65
+        }
+    },
+    "Blues Rock": {
+        "AMP": "Classic",
+        "Preset": "Hi Gain",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 46,
+            "Level": 60
+        },
+        "Cab": "American 4x12",
+        "Settings": {
+            "Gain": 100,
+            "Master": 79,
+            "Bass": 53,
+            "Mid": 81,
+            "Treble": 65
+        }
+    },
+    "2000's MetalCore": {
+        "AMP": "Boutique",
+        "Preset": "Special",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 46,
+            "Level": 60
+        },
+        "Cab": "Fuel 4x12",
+        "Settings": {
+            "Gain": 100,
+            "Master": 80,
+            "Bass": 53,
+            "Mid": 81,
+            "Treble": 65
+        }
+    },
+    "Advanced Djent": {
+        "AMP": "Modern",
+        "Preset": "Hi Gain",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 38,
+            "Level": 63
+        },
+        "Cab": "Mods 4x12",
+        "Settings": {
+            "Gain": 74,
+            "Master": 75,
+            "Bass": 71,
+            "Mid": 50,
+            "Treble": 78
+        }
+    },
+    "Advanced Djent 2": {
+        "AMP": "Modern",
+        "Preset": "Special",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 38,
+            "Level": 63
+        },
+        "Cab": "Juicy 4x12",
+        "Settings": {
+            "Gain": 80,
+            "Master": 83,
+            "Bass": 71,
+            "Mid": 50,
+            "Treble": 78
+        }
+    },
+    "British Djent": {
+        "AMP": "Modern",
+        "Preset": "Special",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 38,
+            "Level": 63
+        },
+        "Cab": "British 4x12",
+        "Settings": {
+            "Gain": 80,
+            "Master": 83,
+            "Bass": 71,
+            "Mid": 50,
+            "Treble": 78
+        }
+    },
+    "American Djent": {
+        "AMP": "Modern",
+        "Preset": "Special",
+        "Gate": {
+            "Threshold": 65,
+            "Decay": 20
+        },
+        "Compressor": {
+            "Sustain": 38,
+            "Level": 63
+        },
+        "Cab": "British 4x12",
+        "Settings": {
+            "Gain": 80,
+            "Master": 83,
+            "Bass": 71,
+            "Mid": 50,
+            "Treble": 78
+        }
+    }
+}
